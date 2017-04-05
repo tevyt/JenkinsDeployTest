@@ -1,0 +1,13 @@
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.Test.deps.json
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.Test.runtimeconfig.json
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.Test.runtimeconfig.dev.json
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.Test.dll
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.Test.pdb
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\obj\Debug\netcoreapp1.1\HelloWorld.Test.AssemblyInfo.cs
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\obj\Debug\netcoreapp1.1\HelloWorld.Test.dll
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\obj\Debug\netcoreapp1.1\HelloWorld.Test.pdb
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.dll
+C:\Users\smithtal\ContinuosIntegrationTest\HelloWorld.Test\bin\Debug\netcoreapp1.1\HelloWorld.pdb
